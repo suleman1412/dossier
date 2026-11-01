@@ -8,7 +8,7 @@ import { MistralProvider } from "./providers/mistral";
 import { OpenCodeGoProvider } from "./providers/opencode-go";
 import { OpenAICompatibleProvider } from "./providers/openai-compatible";
 import type { AIProvider } from "./provider";
-import { liveLmStudio, liveMistral, liveOpenCodeGo } from "./test-live";
+import { liveAnthropic, liveLmStudio, liveMistral, liveOpenCodeGo } from "./test-live";
 import { extractProfile } from "./tasks";
 
 // Checks against real models, skipped unless asked for:
