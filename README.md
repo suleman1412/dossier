@@ -1,3 +1,6 @@
+This is a fork of <a href="https://github.com/AienTech/dossier/">Dossier</a>, just with opencode-go support because I use it.
+All credits to original author
+
 <p align="center">
   <img src="src/app/icon.svg" alt="" width="80" height="80">
 </p>
